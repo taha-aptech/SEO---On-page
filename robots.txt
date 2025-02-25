@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://github.com/taha-aptech/SEO---On-page/blob/main/sitemap.xml
